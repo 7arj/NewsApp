@@ -39,13 +39,15 @@ The app follows **MVVM (Model–View–ViewModel)** to ensure separation of conc
 ## Getting Started
 
 1. ### Clone the repository
- ``` git clone https://github.com/7arj/NewsApp.git
+ ```
+git clone https://github.com/7arj/NewsApp.git
 ```
 2. ### Open in Android Studio
  - Android Studio Koala (2024.1.1+) recommended
 
 3. ### Add API Key
 Create / update gradle.properties (project root):
-``` GNEWS_API_KEY=your_api_key_here
+```
+GNEWS_API_KEY=your_api_key_here
 ```
 
